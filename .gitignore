@@ -1,0 +1,21 @@
+# Ignore Python virtual environment
+Back_end/tf1env/
+
+# Ignore model folder with large files
+Back_end/model/
+
+# Ignore Node modules
+Front_end/posture/node_modules/
+
+# Ignore uploads or any other large folders
+uploads/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# Environment variables files
+.env
