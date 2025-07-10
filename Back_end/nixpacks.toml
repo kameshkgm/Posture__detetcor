@@ -1,0 +1,8 @@
+[phases.setup]
+packages = ["python38", "python38Packages.pip"]
+
+[phases.build]
+command = "python3 -m pip install --upgrade pip && python3 -m pip install -r requirements.txt"
+
+[phases.start]
+command = "python3 app.py"
