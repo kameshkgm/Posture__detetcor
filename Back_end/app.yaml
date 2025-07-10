@@ -1,0 +1,6 @@
+runtime: python38
+entrypoint: python app.py
+
+handlers:
+- url: /.*
+  script: auto
