@@ -71,12 +71,12 @@ Posture_detetcor/
    - Summary popup of all detected issues  
    - Frame-wise feedback as a list
 
+---## 🔗 Live Demo & Video
+
+- 🌐 **Hosted App**: [Click to Try](https://posture-detetcor.vercel.app/)
+- 📹 **Demo Video**: [Watch Demo](https://drive.google.com/file/d/1e_QDBDeYiNkOXFkdGD7BOXdr7_NQrYs1/view?usp=drivesdk)
+
 ---
-
-## 🖼 Screenshot ­– Posture Feedback  
-*(Insert a screenshot of frame-wise feedback UI)*  
-![Frame-wise feedback screenshot](/Front_end/src/screenshot_feedback.png)
-
 ---
 
 ## ⚙️ Setup Guide
