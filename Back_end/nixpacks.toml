@@ -1,11 +1,15 @@
-[phases.build]
-command = "python3 --version && python3 -m pip install --upgrade pip setuptools wheel && python3 -m pip install -r requirements.txt"
+# Use only one [phases.build] section — you have two now, keep just one.
+
+phases = {}
 
 [phases.setup]
-packages = ["python310", "python310Packages.pip", "gcc"]
+packages = ["python310", "python310Packages.pip", "gcc", "python310Packages.python3-distutils"]
 
 [phases.build]
-command = "python3 -m pip install --upgrade pip setuptools wheel && python3 -m pip install -r requirements.txt"
+command = """
+python3 -m pip install --upgrade pip setuptools wheel
+python3 -m pip install -r requirements.txt
+"""
 
 [phases.start]
 command = "python3 app.py"
