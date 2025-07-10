@@ -1,6 +1,4 @@
-# Use a Python 3.7 base image. This is crucial.
 FROM python:3.7-slim-buster
-
 # Set working directory
 WORKDIR /app
 
