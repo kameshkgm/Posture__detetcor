@@ -1,3 +1,4 @@
 Back_end/uploads/
 __pycache__/
 *.pyc
+.nixpacks/
