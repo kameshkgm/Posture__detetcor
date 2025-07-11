@@ -74,7 +74,7 @@ Posture_detetcor/
 ---## 🔗 Live Demo & Video
 
 - 🌐 **Hosted App**: [Click to Try](https://posture-detetcor.vercel.app/)
-- 📹 **Demo Video**: [Watch Demo](https://drive.google.com/file/d/1e_QDBDeYiNkOXFkdGD7BOXdr7_NQrYs1/view?usp=drivesdk)
+- 📹 **Demo Video**: [Watch Demo](https://www.dropbox.com/scl/fi/ahfnd1vxcda5v8ut7r7ra/Video.Guru_20250710_201333129.mp4?rlkey=482e6iw9yhy7xokclt1lnyu95&st=3p1awgiz&dl=0)
 
 ---
 ---
